@@ -3,7 +3,7 @@
  There are 7462 distinct hands (when not distinguished by an equivalent
  in strength rearrangement of suits):
 
- #      Name of hand        Number of hands      range of indexes
+        Name of hand        Number of hands      range of indexes
  1.     Straight Flush      -- 10   --              [0,10)
  2.     Four of a Kind      -- 156  --              [10,166)
  3.     Full House          -- 156  --              [166,322)
